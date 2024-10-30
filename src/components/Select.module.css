@@ -1,0 +1,17 @@
+select {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 0.25rem;
+}
+
+.dropdownContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.countryList {
+    width: 25%;
+}
