@@ -100,7 +100,7 @@ const DropDown = () => {
                 </select>
             </div>
             {(selectedCountry && selectedState && selectedCity) && (
-                <h3>You Selected {selectedCity}, {selectedState}, {selectedCountry}</h3>
+                <h3>You selected {selectedCity}, {selectedState}, {selectedCountry}</h3>
             )}
         </div>
     );
